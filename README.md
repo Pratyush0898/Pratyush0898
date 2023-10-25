@@ -2,4 +2,4 @@
 - 👀 I’m interested in python
 - I’m currently learning python and python module(pygame, tutrle) 
 - my email address is Pratyush0898@gmail.com
-- I use Pycharm far writeing code
+- I use Pycharm for writeing code
