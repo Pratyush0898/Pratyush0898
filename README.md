@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Pratyush
 - 👀 I’m interested in python
-- I’m currently learning python
-- my phone no is 9399943402
-- my email address is pratyush@me.com
-- my full name is _ _ _
-- my dob(Date of birth) is 16 September 2012
-
+- I’m currently learning python and python module(pygame, tutrle) 
+- my email address is Pratyush0898@gmail.com
+- I use Pycharm far writeing code
