@@ -1,5 +1,5 @@
 - Hi, I’m @Pratyush
-- I’m interested in </html> , python, html
-- I’m currently learning python and python module (pygame, tutrle) 
+- I’m interested in python, html
+- I’m currently learning html, python and python module (pygame, tutrle) 
 - My email address is Pratyush0898@gmail.com
 - I am not any developer but I am beginner
