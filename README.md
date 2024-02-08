@@ -11,6 +11,58 @@
 
 - ⚡ Fun fact **I think I am billionries**
 
+## Small gift
+Some templates for free
+
+**index.html**
+```index.html
+<!DOCTYPEhtml>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mystyle.css">
+    <title>Tag</title>
+    <style>
+        
+    </style>
+  <head>
+  <body>
+    <header>
+    <header>
+  
+    <main>
+          <main>
+  
+    <footer>
+    <footer>
+
+    <script src="scripts.js"></script>
+  <body>
+<html>
+```
+**style.css**
+```style.css
+* {
+  
+}
+body{
+  
+}
+header{
+  
+}
+nav{
+  
+}
+main{
+  
+}
+footer{
+  
+}
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pratyush-kumar-751a1229b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush0898" height="30" width="40" /></a>
