@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
 <h3 align="center">A developer from India</h3>
 
-- 🔭 I’m currently working on [Ai making with python](https://github.com/Pratyush0898/Ai-with-python)
-
-- 🌱 I’m currently learning **Javascript**
+- 🔭 I’m currently working on My own website
 
 - 💬 Ask me about **WordPress**
 
