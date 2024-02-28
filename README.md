@@ -5,8 +5,7 @@
 
 - 💬 Ask me about **WordPress**
 
-- 📫 How to reach me **pratyush0898@gmail.com**
-
+- 📫 How to reach me **pkcanva123@gmail.com**
 - ⚡ Fun fact **I think I am billionries**
 
 ## Small gift
