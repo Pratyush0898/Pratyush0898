@@ -19,7 +19,7 @@ Some templates for free
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="mystyle.css">
-    <title>Tag</title>
+    <title>Template html</title>
     <style>
         
     </style>
@@ -29,7 +29,7 @@ Some templates for free
     <header>
   
     <main>
-          <main>
+    <main>
   
     <footer>
     <footer>
