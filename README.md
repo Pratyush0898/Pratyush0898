@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
 <h3 align="center">A developer from India</h3>
 
-- 🔭 I’m currently working on **[official website of game, f night by WGD studio](https://github.com/WGD-studio/f-night)**
+- 🔭 I’m currently working on **[My portfolio website](https://github.com/nvmPratyush/nvmPratyush.githbu.io)**
 
 - 💬 Ask me about **WordPress**
 
